@@ -1,11 +1,3 @@
 {
-  "comments": [
-    {
-      "id": 1,
-      "title": "Kimpu"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ name:'Kimpu'
 }
